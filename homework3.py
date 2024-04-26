@@ -1,4 +1,4 @@
-my_string=input('что-то нужно написать ') # для ввода: изучаем пайтон
+my_string=input('что-то нужно написать ') # пример для ввода: изучаем пайтон
 print(len(my_string))
 print(my_string.upper())
 print(my_string.lower())
