@@ -4,6 +4,6 @@ for i in cars:
 
 
 cars_count = 0
-while cars_count <= 150: 
+while cars_count <= 150: # задали условие, что цикл будет идти до 150
     cars_count += 10
     print(cars_count)
