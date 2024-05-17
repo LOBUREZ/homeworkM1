@@ -1,5 +1,6 @@
-def test(a, b):
-    print(a, b)
+def test():
+    a = 2
+    b = 5
 
 test(1, 2)
 print('\n')
